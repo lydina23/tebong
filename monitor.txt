@@ -1,7 +1,3 @@
 prometheus
 grafana
-splunk
-NewRelic
-elasticsearch 
- kibana
-monitoring tools 
+splunk 
