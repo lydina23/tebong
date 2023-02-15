@@ -2,3 +2,4 @@ prometheus
 grafana
 splunk
 NewRelic
+elasticsearch and kibana
