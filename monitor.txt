@@ -2,4 +2,4 @@ prometheus
 grafana
 splunk
 NewRelic
-ElastisSearch Filebit and kibana [efk] 
+
